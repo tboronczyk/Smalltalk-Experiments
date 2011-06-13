@@ -1,0 +1,6 @@
+This is a collection of various Smalltalk (Squeak) experiments.
+
+For Monticello package see http://www.squeaksource.com/Zaemis.html
+
+    * Zaemis >> Kember - scans for an MD5 hash that exhibits the Kember Identity.
+
